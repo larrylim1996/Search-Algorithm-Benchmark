@@ -1,0 +1,10 @@
+﻿  Project 2.cpp
+C:\Users\Larry\source\repos\Project 2\Project 2\BST.h(49,26): warning C4083: expected ')'; found identifier 'WarningCode'
+C:\Users\Larry\source\repos\Project 2\Project 2\MaxHeap.h(15,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\MaxHeap.h(19,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\MaxHeap.h(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(216,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(238,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(249,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(271,21): warning C4018: '<': signed/unsigned mismatch
+  Project 2.vcxproj -> C:\Users\Larry\source\repos\Project 2\Debug\Project 2.exe

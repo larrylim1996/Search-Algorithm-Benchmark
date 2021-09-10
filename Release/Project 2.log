@@ -1,0 +1,44 @@
+﻿  Project 2.cpp
+C:\Users\Larry\source\repos\Project 2\Project 2\BST.h(49,26): warning C4083: expected ')'; found identifier 'WarningCode'
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(190,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(212,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(250,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(273,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(297,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(312,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(335,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(351,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(373,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(388,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(411,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(426,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(448,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(463,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(485,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(500,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(522,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(559,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(581,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(596,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(618,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(632,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(654,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(668,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(690,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(704,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(726,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(741,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(763,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(777,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(799,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(813,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(835,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(849,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 2\Project 2\Project 2.cpp(871,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Larry\source\repos\Project 2\Project 2\AVLTree.h(123): warning C4715: 'removeID': not all control paths return a value
+  All 225 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project 2.vcxproj -> C:\Users\Larry\source\repos\Project 2\Release\Project 2.exe
